@@ -1,2 +1,2 @@
 # aladdin
-Aladdin App for Android
+Aladdin Mobile Application for Android
